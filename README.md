@@ -1,14 +1,16 @@
 ### 👋 About Me
 
-Hello there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. My journey in technology has led me to specialize in React.js, Node.js, Express, MongoDB, Firebase, MySQL, PHP, JavaScript, Tailwind CSS, SCSS, and Bootstrap 5.
+Hello there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. My journey in technology has led me to specialize in Laravel, React.js, Node.js, Express, MongoDB, MySQL, Docker, JavaScript, Tailwind CSS, SCSS, Bootstrap 5, and Figma.
 
 ### 🚀 Expertise
 
-I thrive in creating captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding full-stack projects.
+I excel at creating captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding full-stack projects. 
+
+With experience working at OCP Maroc in Benguerir, I have successfully developed three major projects: an inventory management system, an operations management system, and a Benguerir operations management system.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,express,mongodb,firebase,mysql,sql,php,javascript,tailwindcss,scss,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,express,mongodb,docker,mysql,php,javascript,tailwindcss,scss,bootstrap,figma,html,css)](https://skillicons.dev)
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 <br>
@@ -20,3 +22,4 @@ I thrive in creating captivating user interfaces that guarantee unparalleled UI/
   </a>
 </p>
 <br>
+
