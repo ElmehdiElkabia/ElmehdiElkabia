@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hello there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. My journey in technology has led me to specialize in  Laravel, React.js, Node.js, Express, MongoDB, MySQL, Docker, Html, JavaScript, Tailwind CSS, SCSS, Bootstrap 5 and Figma.
+Hello! I'm an experienced Full Stack Developer with a passion for creating exceptional user interfaces and building robust backend solutions. My expertise spans a wide range of technologies, including Laravel, React.js, Node.js, Express, MongoDB, MySQL, Docker, HTML, JavaScript, Tailwind CSS, SCSS, Bootstrap 5, and Figma.
 
 ### 🚀 Expertise
 
