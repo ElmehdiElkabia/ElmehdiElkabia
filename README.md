@@ -1,10 +1,8 @@
 ### 👋 About Me
 
-Hello there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. My journey in technology has led me to specialize in Laravel, React.js, Node.js, Express, MongoDB, MySQL, Docker, JavaScript, Tailwind CSS, SCSS, Bootstrap 5, and Figma.
+Hello there! I'm a seasoned Full Stack Developer, passionate about crafting exceptional user interfaces and building robust backend solutions. My journey in technology has led me to specialize in  Laravel, React.js, Node.js, Express, MongoDB, MySQL, Docker, Html, JavaScript, Tailwind CSS, SCSS, Bootstrap 5 and Figma.
 
 ### 🚀 Expertise
-
-I excel at creating captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding full-stack projects. 
 
 With experience working at OCP Maroc in Benguerir, I have successfully developed three major projects: an inventory management system, an operations management system, and a Benguerir operations management system.
 
