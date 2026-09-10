@@ -1,24 +1,57 @@
-### 👋 About Me
+# Hi, I'm El Mehdi Elkabia 👋
 
-Hello! I'm an experienced Full Stack Developer with a passion for creating exceptional user interfaces and building robust backend solutions. My expertise spans a wide range of technologies, including Laravel, React.js, Node.js, Express, MongoDB, MySQL, Docker, HTML, JavaScript, Tailwind CSS, SCSS, Bootstrap 5, and Figma.
-my portfolio : "https://www.elmehdielkabia.tech/".
+**Software Engineer | Full-Stack Developer** based in Benguerir, Morocco.
 
-### 🚀 Expertise
+I build full-stack web applications and have a strong foundation in systems programming, networking, Linux, and software engineering through 1337 Coding School.
 
-With a month internship at OCP Maroc in Benguerir, I have successfully developed three major projects: an inventory management system, an operations management system, and a Benguerir operations management system.
+## About Me
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
+- 🎓 Full-Stack Web Development — OFPPT
+- 💻 Software Engineering & Systems Programming — 1337 Coding School
+- 🧩 Strong foundation in C, C++, Linux, networking, sockets, processes, threads, and algorithms
+- 🌐 Full-stack development with React, Next.js, Laravel, Node.js, and REST APIs
+- 🐳 DevOps experience with Docker, Nginx, Redis, and containerized applications
+- 🏢 Web development internship experience at OCP Benguerir
+- 🎯 Currently focused on software engineering, full-stack development, and internship opportunities
 
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,express,mongodb,docker,mysql,php,javascript,tailwindcss,scss,bootstrap,figma,html,css,c,cpp)](https://skillicons.dev)
+## Tech Stack
 
-<h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
-<br>
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,php,html,css)](https://skillicons.dev)
+
+### Web Development
+[![Web](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,laravel,nodejs,express)](https://skillicons.dev)
+
+### Databases & Infrastructure
+[![Tools](https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,nginx,linux,git,github)](https://skillicons.dev)
+
+## Featured Projects
+
+- **Trivia Trap** — Multiplayer trivia/bluffing game with real-time interactions
+- **EventFlow Pro** — Full-stack event management platform
+- **Webserv** — HTTP server implemented in C++98
+- **ft_irc** — IRC server focused on TCP/IP and socket programming
+- **Inception** — Docker-based infrastructure with Nginx, WordPress, PHP-FPM, and MariaDB
+- **Minishell** — Unix shell implementation in C
+- **Cub3D** — Raycasting and 3D rendering project in C
+
+## Portfolio & Contact
+
+🌐 [Portfolio](https://portfolio-git-main-elmehdielkabias-projects.vercel.app/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/el-mehdi-elkabia)
+
+📧 elmehdielkabia@gmail.com
+
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ElmehdiElkabia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElmehdiElkabia&rank_icon=percentile&show_icons=true&theme=algolia&show=reviews&border_radius=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmehdiElkabia&theme=algolia&layout=compact&count-private=true&hide=jupyter%20notebook" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElmehdiElkabia&show_icons=true&theme=algolia&rank_icon=percentile&border_radius=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmehdiElkabia&theme=algolia&layout=compact&count_private=true&hide=jupyter%20notebook" />
   </a>
 </p>
-<br>
 
+---
+
+> Building, learning, and improving every day.
