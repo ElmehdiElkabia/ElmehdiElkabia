@@ -37,7 +37,7 @@ I build full-stack web applications and have a strong foundation in systems prog
 
 ## Portfolio & Contact
 
-🌐 [Portfolio](https://portfolio-git-main-elmehdielkabias-projects.vercel.app/)
+🌐 [Portfolio](https://www.elmehdielkabia.dev/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/el-mehdi-elkabia)
 
